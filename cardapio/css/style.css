@@ -53,6 +53,7 @@ section {
     margin: 20px;
     display: flex;
     flex-direction: column;
+    text-align: center;
 }
 
 .categoria {
